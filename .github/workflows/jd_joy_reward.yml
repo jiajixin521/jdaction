@@ -1,8 +1,8 @@
-name: jd_joy_reward
+name: 宠汪汪积分兑换京豆【一天三场】
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 0,8,16 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
