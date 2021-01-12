@@ -1,4 +1,4 @@
-name: 京东年货节
+name: 京东年货节【2月9日结束】
 on:
   workflow_dispatch:
   schedule:
