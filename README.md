@@ -10,15 +10,18 @@
 
 其他环境变量 <br> 
 农场： <br> 
-Name：FRUITSHARECODES  Value：以@隔开 <br> 
+Name：FRUITSHARECODES  <br> 
+事例Value「以@隔开」：3b4fec9f44394e72b95e86433069c31d@8f5f9761ab0c454ab8d6a60ffbe7bb95@34d6ce6485b94ba38d85a586d7b2dfec@25ee2a3ebd3a4cbaa187b96905fbd84e <br> 
 规则：最多可以给4个人助力，每天需要有五人给自己助力 <br> 
 <br> 
 种豆得豆：<br> 
-Name：PLANT_BEAN_SHARECODES    Value：以@隔开<br> 
+Name：PLANT_BEAN_SHARECODES<br>     
+事例Value「以@隔开」：6bt3cevhrvlllf56ghfsi3ebjq@4npkonnsy7xi3suwyjqzifyng6djsbatsdz7pta@mlrdw3aw26j3w2c753ak45mfdgvqmsjvq4nfsiq@5kuvbyio45zwf7uarwradlbd4izc6balx7sq2bq<br> 
 规则：最多可以给3个人助力，每天需要有X人给自己助力 <br> 
  <br> 
  京喜工厂： <br> 
- Name：DREAM_FACTORY_SHARE_CODES   Value：以@隔开 <br> 
+ Name：DREAM_FACTORY_SHARE_CODES
+事例Value「以@隔开」：HV9KDncxpspXYfu8mtloOA==@9zVe9I2YCDioR6g2pYiSWg==@b6zWUPeEWet8oMfIBpXAvA==@mU16f-112mQ3oTkXG76Yow==<br> 
  规则：最多可以给X人助力，每天需要有14人给自己助力<br> 
  <br> 
  
