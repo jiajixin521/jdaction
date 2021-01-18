@@ -8,4 +8,9 @@
    2.4 <strong><span style="color:#E53333;">Name</span></strong>：DREAM_FACTORY_SHARE_CODES <strong><span style="color:#E53333;">Value</span></strong>：HV9KDncxpspXYfu8mtloOA==@9zVe9I2YCDioR6g2pYiSWg==@b6zWUPeEWet8oMfIBpXAvA== <br> 
 3. 进入「Actions」页面，开启每一个脚本的工作流「Enable workflow」，  可以手动「Run workflow」运行查看脚本运行状况
 
+其他环境变量 <br> 
+农场互助码： <br> 
+Name：FRUITSHARECODES  Value：以@隔开 <br> 
+规则：最多可以给4个人助理，每天需要有五人给自己助理 <br> 
+
 [镜像库](https://github.com/zdrka/jd_scripts_mirror)
