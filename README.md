@@ -15,7 +15,7 @@ Name：FRUITSHARECODES  <br>
 规则：最多可以给4个人助力，每天需要有五人给自己助力 <br> 
 <br> 
 种豆得豆：<br> 
-Name：PLANT_BEAN_SHARECODES<br>     
+Name：PLANT_BEAN_SHARECODES<br>
 事例Value「以@隔开」：6bt3cevhrvlllf56ghfsi3ebjq@4npkonnsy7xi3suwyjqzifyng6djsbatsdz7pta@mlrdw3aw26j3w2c753ak45mfdgvqmsjvq4nfsiq@5kuvbyio45zwf7uarwradlbd4izc6balx7sq2bq<br> 
 规则：最多可以给3个人助力，每天需要有X人给自己助力 <br> 
  <br> 
