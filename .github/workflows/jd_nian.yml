@@ -2,7 +2,7 @@ name: 炸年兽
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 23 * * *'
+    - cron: '13 0,1,2 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
