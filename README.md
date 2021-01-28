@@ -1,3 +1,5 @@
+## 已经被github封，已经跑过的日志也不可查看了，寿终2021-01-28 12:00
+
 ## 使用说明
 1. fork此仓库
    或 点击模板按钮 [Use this template](https://github.com/DingChang90/jd/generate) 创建仓库.
